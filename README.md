@@ -147,7 +147,7 @@ Healthcare-Data-Analysis
 
 
 ## Author
-**Maheen Shaikh**  
-[maheenshkk@gmail.com]  
+**Akshit Shah**  
+[shahakshit10@gmail.com]  
 
 
